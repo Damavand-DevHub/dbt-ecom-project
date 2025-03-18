@@ -12,8 +12,4 @@ models:
     columns:
       - name: INVOICENO
         tests:
-<<<<<<< HEAD
           - unique
-=======
-          - not_null
->>>>>>> f2693eb448550e42184a50eb3004d96817e00770
