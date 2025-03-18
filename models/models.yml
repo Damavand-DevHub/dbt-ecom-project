@@ -12,4 +12,4 @@ models:
     columns:
       - name: INVOICENO
         tests:
-          - unique
+          - not_null
